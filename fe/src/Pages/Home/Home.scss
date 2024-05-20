@@ -1,0 +1,210 @@
+.home1{
+    background-image: url(https://preview.colorlib.com/theme/florist/img/hero/hero-2.jpg.webp);
+    max-width: 100%;
+    min-height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+    .box{
+       max-width: 1000px;
+    width: 100%;
+    }
+    .yazi{
+       display: flex;
+       flex-direction: column;
+       gap: 30px;
+        max-width: 600px;
+        button{
+            background-color:#F45D96 ;
+            color: white;
+            border: none;
+            width: 150px;
+            height: 50px;
+            font-size: 22px;
+            border-radius: 25px;
+        }
+        span{
+            font-size: 20px;
+        }
+        h2{
+            font-size: 50px;
+        }
+    }
+}
+.home2{
+    max-width: 100%;
+    min-height: 300px;
+    display: flex;
+    align-items: center;
+    .yazilar{
+        gap: 50px;
+        display: flex;
+        flex-wrap: wrap;
+        max-width: 80%;
+        justify-content: space-around;
+        margin: auto;
+
+        h3{
+            font-size: 25px;
+        }
+        p{
+            color: gray;
+        }
+
+
+
+        .yazi1{
+
+            max-width: 230px;
+            gap: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+
+        }
+        .yazi2{
+            max-width: 230px;
+            gap: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+
+        }
+        .yazi3{
+            max-width: 230px;
+            gap: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+
+        }
+        .yazi4{
+            max-width: 230px;
+            gap: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+
+        }
+
+        i{
+            color: #F45D96;
+            font-size: 40px;
+        }
+    }
+    
+}
+.home3{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    input{
+        width: 250px;
+        height: 50px;
+    }
+    .sort{
+        border: none;
+        background-color: #f43c82;
+        color: white;
+        font-size: 30px;
+        width: 90px;
+        height: 90px;
+        border-radius: 100%;
+    }
+    
+    h3{
+        color: #F45D96;
+        letter-spacing: 7px;
+    }
+    h1{
+        letter-spacing: 7px;
+    }
+    .cards{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 90px;
+
+        justify-content: space-around;
+        .card{
+            button{
+                width: 30px;
+                height: 30px;
+                font-size: 25px;
+                border: none;
+                background-color: white;
+                color: #f43c82;
+            }
+        }
+       
+    }
+}
+.home4{
+    background-image: url(https://preview.colorlib.com/theme/florist/img/call-bg.jpg.webp);
+    max-width: 100%;
+    min-height: 500px;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    
+    
+    
+    
+    .boxx{
+        
+        max-width: 100%;
+        
+        display: flex;
+        justify-content: center;
+       
+        align-items: center;
+        flex-direction: column;
+        color: white;
+
+        .yaziii{
+            display: flex;
+            flex-direction: column;
+            gap: 50px;
+            .buttons{
+                display: flex;
+                gap: 30px;
+                button{
+                   border: none;
+                   width: 150px;
+                   height: 50px;
+                   font-size: 16px;
+            border-radius: 25px;
+            letter-spacing: 3px;
+            color: #f43c82;
+           
+           
+                }
+            }
+            h1{
+                font-family: "Dancing Script", cursive;
+                font-optical-sizing: auto;
+               font-size: 60px;
+                font-style: normal;
+            }
+            
+            max-width: 60%;
+
+         
+         
+        
+        
+
+
+        }
+        
+
+
+    }
+}
